@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+
+.hei{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500&display=swap');
+
+body {
+    background: url('https://thumbs.dreamstime.com/z/emergency-fund-text-written-notebook-financial-concept-calculator-magnifier-dollar-bills-pen-196835726.jpg');
+    background-size: 1851px 1091px; 
+    background-position-y: top;
+}
+.btn {
+    border-radius: 1.25rem;
+}
+.card{
+    top: -9px;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+
+.hei{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500&display=swap');
+
+body {
+    background: url('https://moneyexcel.com/wp-content/uploads/2015/05/education-cost.jpg');
+    background-size: 1857px 1000px;
+}
+.btn {
+    border-radius: 1.25rem;
+}
+.card{
+    top: 95px;
+    left: -523px;
+}

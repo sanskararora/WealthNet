@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+
+.hei{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500&display=swap');
+
+body {
+    background: url('https://i.pinimg.com/736x/f3/2e/98/f32e98c92278f7078568dc37c0ce37f8.jpg');
+    background-size: 1857px 1000px;
+}
+.btn {
+    border-radius: 1.25rem;
+}
+.card{
+    top: 95px;
+    left: -268px;
+}
